@@ -1,7 +1,7 @@
 # Extending Adonis Validator Tutorial
 
 Sample code for adding custom validation on Adonis. You can read the article here: 
-[codechauffeur.com/articles/how-to-add-custom-validation-rules-to-adonis-validator/](https://codechauffeur.com/articles/how-to-add-custom-validation-rules-to-adonis-validator/)
+[codechauffeur.com/articles/how-to-add-custom-validation-rules-to-adonis-validator](https://codechauffeur.com/articles/how-to-add-custom-validation-rules-to-adonis-validator)
 
 ## Requirements
 
