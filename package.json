@@ -1,8 +1,8 @@
 {
-  "name": "adonis-fullstack-app",
+  "name": "extending-adonis-validator-tutorial",
   "version": "4.1.0",
   "adonis-version": "4.1.0",
-  "description": "The fullstack application boilerplate for Adonisjs",
+  "description": "Code for extending adonis validator article",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -12,8 +12,8 @@
     "adonisjs",
     "adonis-app"
   ],
-  "author": "",
-  "license": "UNLICENSED",
+  "author": "Emmanuel Awotunde",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@adonisjs/ace": "^5.0.8",
@@ -25,7 +25,8 @@
     "@adonisjs/ignitor": "^2.0.8",
     "@adonisjs/lucid": "^6.1.3",
     "@adonisjs/session": "^1.0.27",
-    "@adonisjs/shield": "^1.0.8"
+    "@adonisjs/shield": "^1.0.8",
+    "@adonisjs/validator": "^5.0.6"
   },
   "devDependencies": {},
   "autoload": {

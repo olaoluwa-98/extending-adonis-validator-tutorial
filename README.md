@@ -1,31 +1,17 @@
-# Adonis fullstack application
+# Extending Adonis Validator Tutorial
 
-This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
+Sample code for adding custom validation on Adonis. You can read the article here: 
+[codechauffeur.com/articles/how-to-add-custom-validation-rules-to-adonis-validator/](https://codechauffeur.com/articles/how-to-add-custom-validation-rules-to-adonis-validator/)
 
-1. Bodyparser
-2. Session
-3. Authentication
-4. Web security middleware
-5. CORS
-6. Edge template engine
-7. Lucid ORM
-8. Migrations and seeds
+## Requirements
 
-## Setup
+- NodeJs
 
-Use the adonis command to install the blueprint
+## Development
 
-```bash
-adonis new yardstick
-```
-
-or manually clone the repo and then run `npm install`.
-
-
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
+- Clone project
+- Run `npm install`
+- Create *.env* from the example file in the root folder and edit as appropriate
+- Run `npm start`
+- Visit localhost:3333
+  
